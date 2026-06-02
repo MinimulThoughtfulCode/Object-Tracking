@@ -12,4 +12,4 @@ Procedures
 
 Terminal Prompt Example:
 
-python3 object_tracking.py --video clip.mp4
+python3 object-tracking.py --video clip.mp4
